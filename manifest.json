@@ -1,6 +1,6 @@
 {
-    "name": "my_cards",
-    "short_name": "my_cards",
+    "name": "Meus Cartões Salvos",
+    "short_name": "Meus Cartões Salvos",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
