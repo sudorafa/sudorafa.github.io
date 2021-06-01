@@ -84979,7 +84979,7 @@ r($,"aRY","asJ",function(){return P.EO(10)})
 r($,"aRZ","aBB",function(){return P.EO(10)})
 r($,"aSw","asQ",function(){return P.bN("^\\d+",!0)})
 q($,"aSN","EY",function(){var p=null
-return[D.i5(1,"Lanche",L.i0(C.Jo,C.x,p,p,30,p)),D.i5(2,"Mercado",L.i0(C.Jw,C.x,p,p,30,p)),D.i5(3,"Sa\xfade e Bem Estar",L.i0(C.IO,C.x,p,p,30,p)),D.i5(4,"Vestu\xe1rio",L.i0(C.Jm,C.x,p,p,30,p)),D.i5(5,"Laser",L.i0(C.Jk,C.x,p,p,30,p)),D.i5(6,"Ve\xedculo",L.i0(C.IF,C.x,p,p,30,p)),D.i5(7,"Viagem",L.i0(C.Jp,C.x,p,p,30,p)),D.i5(8,"Transporte",L.i0(C.Jx,C.x,p,p,30,p)),D.i5(9,"Moradia",L.i0(C.Jr,C.x,p,p,30,p)),D.i5(10,"Educa\xe7\xe3o",L.i0(C.Jv,C.x,p,p,30,p)),D.i5(11,"Pet",L.i0(C.JA,C.x,p,p,30,p)),D.i5(12,"Moveis e Eletros",L.i0(C.Jt,C.x,p,p,30,p))]})
+return[D.i5(1,"Lanche",L.i0(C.Jo,C.x,p,p,30,p)),D.i5(2,"Mercado",L.i0(C.Jw,C.x,p,p,30,p)),D.i5(3,"Sa\xfade e Bem Estar",L.i0(C.IO,C.x,p,p,30,p)),D.i5(4,"Vestu\xe1rio",L.i0(C.Jm,C.x,p,p,30,p)),D.i5(5,"Lazer",L.i0(C.Jk,C.x,p,p,30,p)),D.i5(6,"Ve\xedculo",L.i0(C.IF,C.x,p,p,30,p)),D.i5(7,"Viagem",L.i0(C.Jp,C.x,p,p,30,p)),D.i5(8,"Transporte",L.i0(C.Jx,C.x,p,p,30,p)),D.i5(9,"Moradia",L.i0(C.Jr,C.x,p,p,30,p)),D.i5(10,"Educa\xe7\xe3o",L.i0(C.Jv,C.x,p,p,30,p)),D.i5(11,"Pet",L.i0(C.JA,C.x,p,p,30,p)),D.i5(12,"Moveis e Eletros",L.i0(C.Jt,C.x,p,p,30,p))]})
 q($,"aPi","aA9",function(){return P.axP("meuscartoessalvos.com.br","auth/signin")})
 q($,"aPj","aAa",function(){return P.axP("meuscartoessalvos.com.br","auth/signup")})
 r($,"aSB","asR",function(){return new M.YS($.asw(),null)})
